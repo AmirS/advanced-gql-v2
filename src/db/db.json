@@ -19,6 +19,13 @@
       "id": "7qUN7L5GbSOs7xCnE9yRU"
     }
   ],
-  "posts": [],
+  "posts": [{
+		"id": 1,
+		"message": "Post message",
+		"author": "7qUN7L5GbSOs7xCnE9yRU",
+		"createdAt": 1571670347966,
+		"likes": 5,
+		"views": 600
+  }],
   "settings": []
 }
